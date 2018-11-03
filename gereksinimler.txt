@@ -1,1 +1,52 @@
+-Bu projede amaçlanan kullanýcý tarafýndan klavyeden girilen polinomial fonksiyonlarýn 3 farklý 
+yöntemle köklerinin bulunmasýdýr.
+
+-Köklerin bulunmasý için belirlenen yöntemler;
+# Bisection Method ( Yarýlama Yöntemi )
+# The Regula Falsi Method ( Kiriþ Yöntemim )
+# Newton-Raphson Method
+
+-Bu projede çözülmesi gereken problemler;
+# Kullanýcýnýn kök bulma yöntemini seçmesi
+# Bilgisayarýn klavyeden girilen polinomial fonksiyonu pars etmesi
+# Seçilen yönteme göre kökün bulunmasý
+
+-Bisection Method'unun gereksinimleri;
+# Rekürsifliðin gerçeklenmesi
+# Sistem girdisi;
+->Yazýlan program da kullanýcýnýn girdiði polinomial fonksiyonun karakter dizisi olarak kabul edilmesi
+->Deðer aralýklarýnýn iki reel sayý olarak kabul edilmesi
+# Sistem girdisi kaynaðý;
+->Kullanýcýdan polinomial fonksiyon ve deðer aralýklarýnýn istenmesi
+# Sistem girdilerinin sýklýðý;
+->Belirlendi
+# Sistem çýktýlarý;
+-> Sistem çýktýsý double bir deðerdir.(kök)
+
+-Regula Falsi Method'unun gereksinimleri;
+# Rekürsifliðin gerçeklenmesi
+# Sistem girdisi;
+->Yazýlan program da kullanýcýnýn girdiði polinomial fonksiyonun karakter dizisi olarak kabul edilmesi
+->Deðer aralýklarýnýn iki reel sayý olarak kabul edilmesi
+# Sistem girdisi kaynaðý;
+->Kullanýcýdan polinomial fonksiyon ve deðer aralýklarýnýn istenmesi
+# Sistem girdilerinin sýklýðý;
+->Belirlendi
+# Sistem çýktýlarý;
+-> Sistem çýktýsý double bir deðerdir.(kök)
+
+-Newton-Raphson Method'unun gereksinimleri;
+# Rekürsifliðin gerçeklenmesi
+# Girilen fonksiyonun türevinin alýnmasý
+# Sistem girdisi;
+->Yazýlan program da kullanýcýnýn girdiði polinomial fonksiyonun karakter dizisi olarak kabul edilmesi
+->Ýlk deðerin reel sayý olarak kabul edilmesi
+# Sistem girdisi kaynaðý;
+->Kullanýcýdan polinomial fonksiyon ve baþlangýç deðerinin istenmesi
+# Sistem girdilerinin sýklýðý;
+->Belirlendi
+# Sistem çýktýlarý;
+-> Sistem çýktýsý double bir deðerdir.(kök)
+
+
 
